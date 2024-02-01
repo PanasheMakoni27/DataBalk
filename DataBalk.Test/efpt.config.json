@@ -1,0 +1,101 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "DataBalkDBContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DataBalk.Test",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[Task]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[User]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[pr_CreateTask]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_DeleteTask]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_DeleteUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_GetActiveTask]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_GetAllTasks]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_GetAllUsers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_GetExpiredTask]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_GetTask]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_GetTaskByDate]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_GetUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_RegisterUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_UpdateTask]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[pr_UpdateUser]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "desktop-9s98imu\\sqlserver2022.DataBalkDB.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
